@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:59.744725
+#+DATE: 2015-08-30 20:12:00.184284
 #+TITLE: 佛說金光王童子經
 #+PROPERTY: CBETA_ID T14n0548
 #+PROPERTY: ID KR6i0179
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 548
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0179_T_000-0853b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0179_T_001-0853b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.548¶
-
- 佛說金光王童子經¶
+No. 548¶
+佛說金光王童子經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿明教大師臣法賢奉　詔譯¶
